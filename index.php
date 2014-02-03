@@ -10,9 +10,12 @@
 <body>
 	<h1>Git Test</h1>
 	<span>Here's a list</span>
-	<ul>
-		<li>One</li>
-		<li>Two</li>
-	</ul>
+	<ol>
+		<li>One thing</li>
+		<li>Two things</li>
+	</ol>
+	<footer>
+		<span>This is the copyright message for the year 2013.</span>
+	</footer>
 </body>
 </html>
