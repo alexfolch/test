@@ -17,5 +17,6 @@
 	<footer>
 		<span>This is the copyright message for the year 2013.</span>
 	</footer>
+	<p>some more text</p>
 </body>
 </html>
