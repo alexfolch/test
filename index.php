@@ -7,6 +7,10 @@
 </head>
 <body>
 	<h1>Git Test</h1>
-	<p>Some changes.</p>
+	<span>Here's a list</span>
+	<ul>
+		<li>One</li>
+		<li>Two</li>
+	</ul>
 </body>
 </html>
