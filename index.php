@@ -23,11 +23,7 @@
 		<li>Two things</li>
 	</ol>
 	<footer>
-<<<<<<< HEAD
 		<span>This is the copyright message for 2013.</span>
-=======
-		<span>This is the copyright message for the year 2014.</span>
->>>>>>> nav
 	</footer>
 </body>
 </html>
