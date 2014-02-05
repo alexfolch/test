@@ -8,7 +8,10 @@
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-	<h1>Git Test</h1>
+	<header>
+		<h1>Git Test</h1>
+		<h2>Subheader</h2>
+	</header>
 	<nav>
 		<ul>
 			<li><a href="index.php">Home</a></li>
@@ -26,4 +29,4 @@
 		<span>This is the copyright message for 2013.</span>
 	</footer>
 </body>
-</html>
+</html> 
