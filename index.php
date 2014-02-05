@@ -23,7 +23,7 @@
 		<li>Two things</li>
 	</ol>
 	<footer>
-		<span>This is the copyright message for the year 2014.</span>
+		<strong>This is the copyright message for the year 2014.</strong>
 	</footer>
 </body>
 </html>
